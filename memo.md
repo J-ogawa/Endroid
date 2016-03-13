@@ -1,0 +1,14 @@
+* table
+  * words
+    * name
+  * meanings
+    * word_id
+    * lexical_category_id
+    * description
+  * sentenses
+    * sentence_template_id
+    * body
+  * lexical_categories
+    * name
+  * sentence_templates
+    * identifier
